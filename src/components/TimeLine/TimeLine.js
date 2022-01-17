@@ -46,7 +46,10 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        The purpose
+        Team leader with a proven history of working in the logistics industry. <br/>
+        <br/>
+        Career highlights:
+        I led large projects of national/multinational companies with a high volume of data and integrations such as: E2E, REST API's, SAP, SalesForce, ServiceNow.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
